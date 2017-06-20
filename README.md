@@ -5,3 +5,6 @@ If you want to learn how to implement it on Keras using a CNN, I highly suggest 
 Otherwise, if you want to learn how to do it on Sklearn for a normal feedforward neural net, check out the jupyter notebook uploaded in this repo.
 
 * Also, for some reason, my precision, recall, and f1-score metrics aren't being passed as floats. They are extracted in the form of arrays in a list and then passed through a .mean() function. If anyone can help me find out the problem, that would be much appreciated. Cheers!
+
+
+### Check out the original analysis at https://dataontherocks.wordpress.com/2017/05/04/exploring-the-association-of-movie-trailer-performance-on-youtube-and-box-office-success-using-neural-net-python-and-r/
