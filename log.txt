@@ -1,0 +1,47 @@
+06/19/2017 09:34:47 PM - INFO - Evolving 10 generations starting with 20 neural networks
+06/19/2017 09:34:47 PM - INFO - Generation: 1 of 10
+06/19/2017 09:35:06 PM - INFO - Generation average: 50.36%
+06/19/2017 09:35:06 PM - INFO - -----------------------------------------------------------
+06/19/2017 09:35:06 PM - INFO - Generation: 2 of 10
+06/19/2017 09:35:13 PM - INFO - Generation average: 83.44%
+06/19/2017 09:35:13 PM - INFO - -----------------------------------------------------------
+06/19/2017 09:35:13 PM - INFO - Generation: 3 of 10
+06/19/2017 09:35:22 PM - INFO - Generation average: 82.72%
+06/19/2017 09:35:22 PM - INFO - -----------------------------------------------------------
+06/19/2017 09:35:22 PM - INFO - Generation: 4 of 10
+06/19/2017 09:35:34 PM - INFO - Generation average: 94.20%
+06/19/2017 09:35:34 PM - INFO - -----------------------------------------------------------
+06/19/2017 09:35:34 PM - INFO - Generation: 5 of 10
+06/19/2017 09:35:40 PM - INFO - Generation average: 88.28%
+06/19/2017 09:35:40 PM - INFO - -----------------------------------------------------------
+06/19/2017 09:35:40 PM - INFO - Generation: 6 of 10
+06/19/2017 09:35:46 PM - INFO - Generation average: 84.93%
+06/19/2017 09:35:46 PM - INFO - -----------------------------------------------------------
+06/19/2017 09:35:46 PM - INFO - Generation: 7 of 10
+06/19/2017 09:35:53 PM - INFO - Generation average: 91.81%
+06/19/2017 09:35:53 PM - INFO - -----------------------------------------------------------
+06/19/2017 09:35:53 PM - INFO - Generation: 8 of 10
+06/19/2017 09:36:01 PM - INFO - Generation average: 80.47%
+06/19/2017 09:36:01 PM - INFO - -----------------------------------------------------------
+06/19/2017 09:36:01 PM - INFO - Generation: 9 of 10
+06/19/2017 09:36:05 PM - INFO - Generation average: 79.46%
+06/19/2017 09:36:05 PM - INFO - -----------------------------------------------------------
+06/19/2017 09:36:05 PM - INFO - Generation: 10 of 10
+06/19/2017 09:36:12 PM - INFO - Generation average: 92.28%
+06/19/2017 09:36:12 PM - INFO - -----------------------------------------------------------
+06/19/2017 09:36:12 PM - INFO - -----------------------------------------------------------
+06/19/2017 09:36:12 PM - INFO - {'solver': 'lbfgs', 'max_iter': 500, 'learning_rate_init': 0.0001, 'hidden_layer_sizes': (10,)}
+06/19/2017 09:36:12 PM - INFO - Network Accuracy: 98.66%
+06/19/2017 09:36:12 PM - INFO - Precision: 0 | Recall: 0 | F1 Score: 0 | Support: 224
+06/19/2017 09:36:12 PM - INFO - {'solver': 'lbfgs', 'max_iter': 500, 'learning_rate_init': 0.0001, 'hidden_layer_sizes': (10,)}
+06/19/2017 09:36:12 PM - INFO - Network Accuracy: 98.21%
+06/19/2017 09:36:12 PM - INFO - Precision: 0 | Recall: 0 | F1 Score: 0 | Support: 224
+06/19/2017 09:36:12 PM - INFO - {'solver': 'lbfgs', 'max_iter': 500, 'learning_rate_init': 0.0001, 'hidden_layer_sizes': (10,)}
+06/19/2017 09:36:12 PM - INFO - Network Accuracy: 98.21%
+06/19/2017 09:36:12 PM - INFO - Precision: 0 | Recall: 0 | F1 Score: 0 | Support: 224
+06/19/2017 09:36:12 PM - INFO - {'solver': 'sgd', 'max_iter': 500, 'learning_rate_init': 0.1, 'hidden_layer_sizes': (10,)}
+06/19/2017 09:36:12 PM - INFO - Network Accuracy: 98.21%
+06/19/2017 09:36:12 PM - INFO - Precision: 0 | Recall: 0 | F1 Score: 0 | Support: 224
+06/19/2017 09:36:12 PM - INFO - {'solver': 'lbfgs', 'max_iter': 500, 'learning_rate_init': 0.0001, 'hidden_layer_sizes': (10,)}
+06/19/2017 09:36:12 PM - INFO - Network Accuracy: 98.21%
+06/19/2017 09:36:12 PM - INFO - Precision: 0 | Recall: 0 | F1 Score: 0 | Support: 224
